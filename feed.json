@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "gregpickhardt.github.io",
+    "title": "Greg Pickhardt",
     "description": "",
     "home_page_url": "https://gregpickhardt.github.io",
     "feed_url": "https://gregpickhardt.github.io/feed.json",
@@ -9,5 +9,19 @@
         "name": "Greg Pickhardt"
     },
     "items": [
+        {
+            "id": "https://gregpickhardt.github.io/technical-expertise.html",
+            "url": "https://gregpickhardt.github.io/technical-expertise.html",
+            "title": "Technical Expertise",
+            "summary": "Siemens Automation CNC",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%; border-style: hidden;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.9288%;\">Siemens Automation</td>\n<td style=\"width: 49.9288%;\">CNC</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\"> </td>\n<td style=\"width: 49.9288%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\"> </td>\n<td style=\"width: 49.9288%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\"> </td>\n<td style=\"width: 49.9288%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\"> </td>\n<td style=\"width: 49.9288%;\"> </td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "Greg Pickhardt"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-05T14:23:28-04:00",
+            "date_modified": "2026-08-05T14:23:28-04:00"
+        }
     ]
 }

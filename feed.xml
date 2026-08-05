@@ -1,12 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>gregpickhardt.github.io</title>
+    <title>Greg Pickhardt</title>
     <link href="https://gregpickhardt.github.io/feed.xml" rel="self" />
     <link href="https://gregpickhardt.github.io" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2026-08-05T14:23:28-04:00</updated>
     <author>
         <name>Greg Pickhardt</name>
     </author>
     <id>https://gregpickhardt.github.io</id>
 
+    <entry>
+        <title>Technical Expertise</title>
+        <author>
+            <name>Greg Pickhardt</name>
+        </author>
+        <link href="https://gregpickhardt.github.io/technical-expertise.html"/>
+        <id>https://gregpickhardt.github.io/technical-expertise.html</id>
+
+        <updated>2026-08-05T14:23:28-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Siemens Automation CNC
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="1">
+<tbody>
+<tr>
+<td style="width: 49.9288%;">Siemens Automation</td>
+<td style="width: 49.9288%;">CNC</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;"> </td>
+<td style="width: 49.9288%;"> </td>
+</tr>
+<tr>
+<td style="width: 49.9288%;"> </td>
+<td style="width: 49.9288%;"> </td>
+</tr>
+<tr>
+<td style="width: 49.9288%;"> </td>
+<td style="width: 49.9288%;"> </td>
+</tr>
+<tr>
+<td style="width: 49.9288%;"> </td>
+<td style="width: 49.9288%;"> </td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
 </feed>
