@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>gregpickhardt.github.io</title>
+    <link href="https://gregpickhardt.github.io/feed.xml" rel="self" />
+    <link href="https://gregpickhardt.github.io" />
+    <updated>2026-08-05T12:33:31-04:00</updated>
+    <author>
+        <name>Greg Pickhardt</name>
+    </author>
+    <id>https://gregpickhardt.github.io</id>
+
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>Greg Pickhardt</name>
+        </author>
+        <link href="https://gregpickhardt.github.io/home.html"/>
+        <id>https://gregpickhardt.github.io/home.html</id>
+
+        <updated>2026-08-05T12:33:31-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "gregpickhardt.github.io",
+    "description": "",
+    "home_page_url": "https://gregpickhardt.github.io",
+    "feed_url": "https://gregpickhardt.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Greg Pickhardt"
+    },
+    "items": [
+        {
+            "id": "https://gregpickhardt.github.io/home.html",
+            "url": "https://gregpickhardt.github.io/home.html",
+            "title": "Home",
+            "author": {
+                "name": "Greg Pickhardt"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-05T12:33:31-04:00",
+            "date_modified": "2026-08-05T12:33:31-04:00"
+        }
+    ]
+}
