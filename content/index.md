@@ -1,6 +1,3 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Greg Pickhardt's Personal Website
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.

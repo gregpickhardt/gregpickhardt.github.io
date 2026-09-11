@@ -1,9 +1,9 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Greg Pickhardt - Personal Website
   pageTitleSuffix: ""
   enableSPA: true
-  enablePopovers: true
+  enablePopovers: false
   analytics:
     provider: plausible
   locale: en-US
@@ -51,7 +51,7 @@ plugins:
         - filesystem
     order: 10
   - source: "@quartz-community/syntax-highlighting"
-    enabled: false
+    enabled: true
     options:
       theme:
         light: github-light
@@ -213,7 +213,7 @@ plugins:
       priority: 35
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5

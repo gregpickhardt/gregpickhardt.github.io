@@ -1,3 +1,7 @@
+---
+unlisted: true
+---
+
 # Little Falls North Side - Routes
 
 [[Little Falls North Side Cliffs|Guide]] · [[Little Falls North Side - Access|Access]]
