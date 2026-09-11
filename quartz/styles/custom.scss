@@ -1,8 +1,27 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-a.internal {
-  background-color: transparent;
-  padding: 0;
-  border-radius: 0;
+
+// Always dark
+html,
+html[saved-theme="light"],
+html[saved-theme="dark"] {
+  color-scheme: dark;
+
+  --light: #161618 !important;
+  --lightgray: #393639 !important;
+  --gray: #646464 !important;
+  --darkgray: #d4d4d4 !important;
+  --dark: #ebebec !important;
+  --secondary: #7b97aa !important;
+  --tertiary: #84a59d !important;
+}
+
+// No background on links
+html body a.internal,
+html body a.internal.tag-link {
+  background: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
 }
