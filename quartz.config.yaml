@@ -42,7 +42,7 @@ configuration:
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
-    enabled: true
+    enabled: false
     options:
       defaultDateType: modified
       priority:
@@ -51,7 +51,7 @@ plugins:
         - filesystem
     order: 10
   - source: "@quartz-community/syntax-highlighting"
-    enabled: true
+    enabled: false
     options:
       theme:
         light: github-light
@@ -181,7 +181,7 @@ plugins:
       position: right
       priority: 50
   - source: "@quartz-community/article-title"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 10
@@ -196,7 +196,7 @@ plugins:
       position: beforeBody
       priority: 30
   - source: "@quartz-community/page-title"
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 10
@@ -207,7 +207,7 @@ plugins:
       priority: 30
       group: toolbar
   - source: "@quartz-community/reader-mode"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
