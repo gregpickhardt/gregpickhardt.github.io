@@ -78,10 +78,10 @@ plugins:
     enabled: true
     order: 40
   - source: "@quartz-community/table-of-contents"
-    enabled: true
+    enabled: false
     order: 50
     layout:
-      position: left
+      position: right
       priority: 30
   - source: "@quartz-community/crawl-links"
     enabled: true
@@ -196,7 +196,7 @@ plugins:
       position: beforeBody
       priority: 30
   - source: "@quartz-community/page-title"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 10
