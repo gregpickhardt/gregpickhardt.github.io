@@ -1,6 +1,5 @@
 ---
 unlisted: true
-permalink: amtrak-arete
 ---
 
 # Amtrak Arête
